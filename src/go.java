@@ -5,6 +5,7 @@ public class go {
 		System.out.println("- - - - - - - - - - - -");
 		System.out.println("Data Structures Java");
 		System.out.println("Assignment Number 2");
+		System.out.println("");
 		System.out.println("- - - - - - - - - - - -");
 
 	}
